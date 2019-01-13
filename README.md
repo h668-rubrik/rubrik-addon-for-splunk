@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the Rubrik Splunk add-on and application. The files which compose this are as follows:
+This repository contains the Rubrik Add-On for Splunk and application. The files which compose this are as follows:
 
 ### Add-On
 
@@ -15,3 +15,7 @@ This consists of the back-end data inputs which enable the configuration of the 
 This consists of the datasets, dashboards and other Splunk artefacts used for exploring data.
 
 * `Rubrik.spl` - an export of the application
+
+## Quick Start
+
+[Quick Start Guide](https://github.com/rubrikinc/rubrik-addon-for-splunk/blob/master/docs/quick-start.md)
