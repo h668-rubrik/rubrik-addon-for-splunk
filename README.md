@@ -19,3 +19,7 @@ This consists of the datasets, dashboards and other Splunk artefacts used for ex
 ## Quick Start
 
 [Quick Start Guide](https://github.com/rubrikinc/rubrik-addon-for-splunk/blob/master/docs/quick-start.md)
+
+## Additional Links
+
+[Getting Started Video](https://www.youtube.com/watch?v=PHdNalIO0n0)
